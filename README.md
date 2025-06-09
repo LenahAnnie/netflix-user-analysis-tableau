@@ -19,12 +19,13 @@ The goal of this project is to analyze Netflix user behavior and present key met
 
 ## 🖼️ Dashboard Preview
 
+
 > ![Image](https://github.com/user-attachments/assets/7f4d007d-5a62-4fa4-8945-389d3237f0fd)
 
 ---
 
 ## 📁 Files Included
-
+- https://public.tableau.com/app/profile/lenah.annie/viz/NetflixDashboard_17494053372160/Dashboard1 – Tableau workbook file 
 - [Netflix Dataset.xlsx](https://github.com/user-attachments/files/20649377/Netflix.Dataset.xlsx) – Dataset used for analysis  
 
 ---
