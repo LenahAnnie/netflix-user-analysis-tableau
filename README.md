@@ -19,10 +19,7 @@ The goal of this project is to analyze Netflix user behavior and present key met
 
 ## 🖼️ Dashboard Preview
 
-> ![image](https://github.com/user-attachments/assets/cd8fe92d-75cb-4cae-b239-adba3d22e6df)
-
-> _You can upload an image and link it like this:_  
-> `![Dashboard Preview](images/netflix_dashboard.png)`
+> ![Image](https://github.com/user-attachments/assets/7f4d007d-5a62-4fa4-8945-389d3237f0fd)
 
 ---
 
