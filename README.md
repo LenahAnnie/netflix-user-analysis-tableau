@@ -25,9 +25,7 @@ The goal of this project is to analyze Netflix user behavior and present key met
 
 ## 📁 Files Included
 
-- `Netflix_Dashboard.twbx` – Tableau workbook file  
-- `netflix_users_data.csv` – Dataset used for analysis  
-- `README.md` – Project documentation  
+- [Netflix Dataset.xlsx](https://github.com/user-attachments/files/20649377/Netflix.Dataset.xlsx) – Dataset used for analysis  
 
 ---
 
@@ -50,7 +48,7 @@ The goal of this project is to analyze Netflix user behavior and present key met
 
 ## 📬 Contact
 
-If you'd like to know more or collaborate, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/your-profile) or email me at your.email@example.com.
+If you'd like to know more or collaborate, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/lenah-annie-45935721b/)
 
 ---
 
